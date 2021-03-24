@@ -24,6 +24,7 @@ Sheet1 |	7628| 	2
 
 # Test Dataset
 STORY: A part of the main content of the article to be published as a piece of news.
-Table	Total Rows	Total Columns
-Sheet1	2748	1
+Table | Total Rows |	Total Columns
+------|------------|---------------
+Sheet1|	2748|	1
 

@@ -1,1 +1,1 @@
-# BERT-for-Multi-Class-Classification
+# Multi class classification using BERT with Tensorflow

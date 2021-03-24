@@ -18,8 +18,9 @@ Business: 3
 STORY: A part of the main content of the article to be published as a piece of news.
 SECTION: The genre/category the STORY falls in.
 
-Table	Total Rows	Total Columns
-Sheet1	7628	2
+Table	| Total Rows | Total Columns
+------|------------|--------------
+Sheet1 |	7628| 	2
 
 # Test Dataset
 STORY: A part of the main content of the article to be published as a piece of news.
